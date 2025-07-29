@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./fonts/MuseoSans/MuseoSans-100.otf";
+import "./fonts/MuseoSans/MuseoSans-300.otf";
+import "./fonts/MuseoSans/MuseoSans-500.otf";
+import "./fonts/MuseoSans/MuseoSans-700.otf";
+import "./fonts/Lobster/Lobster-Regular.ttf"
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
